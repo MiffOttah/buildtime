@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BuildTime": {
+      "commandName": "Project",
+      "commandLineArgs": "-c Test -n Foo.Bar -p D:\\temp\\buildtime.cs"
+    }
+  }
+}
